@@ -1,0 +1,22 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.build-test/
+.vite/
+.npm-cache/
+
+# 编辑器 / 系统临时文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.vscode/
+.idea/
+
+# 本地助手工作目录（含对话记忆，不外传）
+.workbuddy/
+
+# 开发过程中的旧版本快照 / 误建的垃圾目录，不进仓库
+AE快速图表工具/datamotion/
+AE快速图表工具/datamotion_v0.*/
+AE快速图表工具/22.22.2-2)
