@@ -7,7 +7,8 @@
 | **DataMotion** | 数据图表动画与 AE 工程生成工具，导出 AE 可直接运行的 JSX | 网页应用（React + TS + Vite） |
 | **快速矩形** | AE 停靠面板，一个图层的矩形尺寸 / 圆角 / 填充 / 描边全部在一屏内拖 | ExtendScript 面板（`.jsx`） |
 
-在线使用 DataMotion：**https://evelynall.github.io/ae-tools/**
+在线使用 DataMotion：**https://www.evelynal.top/ae-tools/**
+（`https://evelynall.github.io/ae-tools/` 会跳转到这里）
 
 ---
 
